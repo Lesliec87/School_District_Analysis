@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-##Overview of Election Audit:
+## Overview of Election Audit:
 
 In this analysis we are assisting Tom, a Colorado board of elections employee, in an elections audit of the tabulated results for U.S. Congressional Precinct in Colorado. 
 
@@ -9,7 +9,7 @@ First, we are tasked to report the total amount of the votes cast, the votes for
 Tom's manager Seth has also requested a way to automate the audit using Python, if it is successful they will use the code we write to audit also senatorial districs and local elections. We are taking the election results from votes cast with one of three voting methods: mail-in-ballots, punch cards and direct recording electronic (DRE) counting machines. After the votes our counted our job is to generate a vote count report to certify the U.S congressional race. 
 
 
-##Election-Audit Results: 
+## Election-Audit Results: 
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 - How many votes were cast in this congressional election?
@@ -19,4 +19,4 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 - Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for   any election. Give at least two examples of how this script can be modified to be used for other elections.
 
-##Election-Audit Results: 
+## Election-Audit Results: 
