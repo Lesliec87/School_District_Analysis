@@ -10,7 +10,8 @@ Tom's manager Seth has also requested a way to automate the audit using Python, 
 
 
 ## Election-Audit Results: 
-Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+
+
 
 - How many votes were cast in this congressional election?
   - The total votes were 369,711. 
