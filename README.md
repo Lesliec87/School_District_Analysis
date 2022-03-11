@@ -11,7 +11,7 @@ Tom's manager Seth has also requested a way to automate the audit using Python, 
 
 ## Election-Audit Results: 
 
-
+![Election_Results]()
 
 - How many votes were cast in this congressional election?
   - The total votes were 369,711. 
