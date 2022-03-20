@@ -28,11 +28,19 @@ We will modifying the math and reading scores for Thomas High School for the nin
  ![School Summary After](https://github.com/Lesliec87/School_District_Analysis/blob/main/Resources/PycitySchool%20per%20school.png)
  
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+  - It did not affect Thomas High School's performance since they are still placed in the same place compared to other schools and were ultimately in still in the top schools. 
+
+#### PyCitySchool Challenge
+![School Summary After](https://github.com/Lesliec87/School_District_Analysis/blob/main/Resources/PycitySchool%20challenge%20per%20school.png)
+
 - How does replacing the ninth-grade scores affect the following:
+
   - Math and reading scores by grade
   - Scores by school spending
   - Scores by school size
   - Scores by school type
 
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: 
+
+Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
