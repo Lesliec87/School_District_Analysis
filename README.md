@@ -10,6 +10,8 @@ We will modifying the math and reading scores for Thomas High School for the nin
 ##Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 - How is the district summary affected?
+  - The district summary was affected very slightly to the following: "Average Math Score" by 0.1%, "% Passing Math" by 0.2% , "% Passing Reading" by 0.3% , and "% Passing Overall" by 0.1%
+
 - How is the school summary affected?
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
