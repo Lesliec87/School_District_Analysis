@@ -31,7 +31,7 @@ We will modifying the math and reading scores for Thomas High School for the nin
   - It did not affect Thomas High School's performance since they are still placed in the same place compared to other schools and were ultimately in still in the top schools. 
 
 #### PyCitySchool Challenge
-![School Summary After](Top Schools PycitySchool Challenge.png)
+![School Summary After](https://github.com/Lesliec87/School_District_Analysis/blob/main/Resources/Top%20Schools%20PycitySchool%20Challenge.png)
 
 - How does replacing the ninth-grade scores affect the following:
 
